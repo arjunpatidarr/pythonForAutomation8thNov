@@ -6,7 +6,6 @@ if num%2 == 0:
 else:
     print("num is odd")
 
-
 #print even number from 1 to 100
 
 for i in range(1,101):

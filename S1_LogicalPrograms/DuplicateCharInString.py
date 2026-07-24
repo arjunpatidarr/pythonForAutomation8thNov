@@ -1,6 +1,7 @@
 x = "abcdefedacbwr"
 dict = {}
-
+print(len(x))
+print(x.count(x))
 for key in x:
     if dict.__contains__(key):
         dict[key] = dict[key] + 1
@@ -23,3 +24,5 @@ print("find Unique Char")
 for key in dict:
     if dict[key] == 1:
         print(dict[key], key)
+
+

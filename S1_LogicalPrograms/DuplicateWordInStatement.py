@@ -4,7 +4,6 @@ allWords = stat.split(" ")
 print(allWords)
 dict = {}
 
-
 for word in allWords:
     if dict.__contains__(word):
         dict[word] = dict[word]+1

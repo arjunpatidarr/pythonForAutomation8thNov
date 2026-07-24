@@ -17,7 +17,6 @@ class  Demo:
     def sqaureOfGivenNum(self, num):
        print("Square of given number is", num*num)
 
-
 s1 = Demo()
 s1.m1()
 s1.m2()

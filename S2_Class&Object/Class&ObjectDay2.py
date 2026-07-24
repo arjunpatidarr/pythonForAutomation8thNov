@@ -1,5 +1,4 @@
 
-
 class Demo2:
 
     def substraction(self, num1, num2):

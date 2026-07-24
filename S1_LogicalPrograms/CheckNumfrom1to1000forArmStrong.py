@@ -9,4 +9,4 @@ for i in range(1,1001):
         num = num//10
 
     if OrgNum == sum:
-        print("ArmStrongNumber", i)
+        print("ArmStrongNumber", sum)
